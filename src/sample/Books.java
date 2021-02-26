@@ -8,6 +8,7 @@ public class Books {
     private int pages;
 
     public Books(int id, String title, String author, int year, int pages) {
+        //creating variables
         this.id=id;
         this.title = title;
         this.author = author;
